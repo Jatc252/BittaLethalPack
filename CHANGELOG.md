@@ -1,3 +1,6 @@
+# 1.2.2
+- Updates for FlashlightToggle, WalkieUse, Boombox_Controller, and Skinwalkers
+
 # 1.2.1
 - Updated for V45
 - Added Skinwalkers mod
