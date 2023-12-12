@@ -1,3 +1,6 @@
+# 1.2.3
+- Updates for Boombox_Controller, and LateCompany
+
 # 1.2.2
 - Updates for FlashlightToggle, WalkieUse, Boombox_Controller, and Skinwalkers
 
