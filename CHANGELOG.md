@@ -1,3 +1,6 @@
+# 1.2.4
+- Updates for MoreCompany, and LateCompany
+
 # 1.2.3
 - Updates for Boombox_Controller, and LateCompany
 

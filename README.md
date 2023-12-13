@@ -1,4 +1,4 @@
-# BittaLethalPack 1.2.3
+# BittaLethalPack 1.2.4
 Compilation of some mods for Lethal Company by [Jatc251](https://jatc251.com)
 
 ## Mods
