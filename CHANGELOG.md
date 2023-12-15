@@ -1,3 +1,6 @@
+# 1.2.5
+- Updates for HDLethalCompany, More_Suits, and Boombox_Controller
+
 # 1.2.4
 - Updates for MoreCompany, and LateCompany
 
