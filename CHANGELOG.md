@@ -1,3 +1,8 @@
+# 1.4.0
+- Added LC_API
+- Updated Boombox_Controller
+- Removed MoreScreams
+
 # 1.3.0
  - Added More_Emotes, ShipLoot, Coroner, MoreScreams, VoiceHUD, HealthMetrics, and LC_Symphony
  - Updated HDLethalCompany
