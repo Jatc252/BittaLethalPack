@@ -1,3 +1,7 @@
+# 1.3.0
+ - Added More_Emotes, ShipLoot, Coroner, MoreScreams, VoiceHUD, HealthMetrics, and LC_Symphony
+ - Updated HDLethalCompany
+
 # 1.2.5
 - Updates for HDLethalCompany, More_Suits, and Boombox_Controller
 

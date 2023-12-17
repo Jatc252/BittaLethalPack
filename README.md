@@ -1,4 +1,4 @@
-# BittaLethalPack 1.2.5
+# BittaLethalPack 1.3.0
 Compilation of some mods for Lethal Company by [Jatc251](https://jatc251.com)
 
 ## Mods
@@ -13,3 +13,10 @@ Compilation of some mods for Lethal Company by [Jatc251](https://jatc251.com)
 - More_Suits
 - Boombox_Controller
 - Skinwalkers
+- More_Emotes
+- ShipLoot
+- Coroner
+- MoreScreams
+- VoiceHUD
+- HealthMetrics
+- LC_Symphony
