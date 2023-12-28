@@ -1,3 +1,8 @@
+# 1.5.0
+- Added LethalCompany_InputUtils
+- Updated FlashlightToggle, WalkieUse, LateCompany, Boombox_Controller, Coroner, LC_Symphony, LC_API
+- Organised mods by alphabetical order for future use
+
 # 1.4.0
 - Added LC_API
 - Updated Boombox_Controller
@@ -8,26 +13,26 @@
  - Updated HDLethalCompany
 
 # 1.2.5
-- Updates for HDLethalCompany, More_Suits, and Boombox_Controller
+- Updated HDLethalCompany, More_Suits, and Boombox_Controller
 
 # 1.2.4
-- Updates for MoreCompany, and LateCompany
+- Updated MoreCompany, and LateCompany
 
 # 1.2.3
-- Updates for Boombox_Controller, and LateCompany
+- Updated Boombox_Controller, and LateCompany
 
 # 1.2.2
-- Updates for FlashlightToggle, WalkieUse, Boombox_Controller, and Skinwalkers
+- Updated FlashlightToggle, WalkieUse, Boombox_Controller, and Skinwalkers
 
 # 1.2.1
-- Updated for V45
+- For game version v45
 - Added Skinwalkers mod
 
 # 1.0.2
-- readme update (again)
+- Updated README.md
 
 # 1.0.1
-- readme update
+- Updated README.md
 
 # 1.0.0
-- in the beninging
+- Initial release

@@ -1,22 +1,25 @@
-# BittaLethalPack 1.4.0
-Compilation of some mods for Lethal Company by [Jatc251](https://jatc251.com)
+# BittaLethalPack 1.5.0
+Lite pack with QOL mods and a few extra gameplay features
+
+Visit my website for contact info [here](https://jatc251.com) or view the [GitHub repository](https://github.com/Jatc252/BittaLethalPack)
 
 ## Mods
 - BepInExPack
-- MoreCompany
+- Boombox_Controller
+- Coroner
 - FlashlightToggle
 - HDLethalCompany
-- WalkieUse
-- ItemQuickSwitch
-- LetMeLookDown
-- LateCompany
-- More_Suits
-- Boombox_Controller
-- Skinwalkers
-- More_Emotes
-- ShipLoot
-- Coroner
-- VoiceHUD
 - HealthMetrics
-- LC_Symphony
+- ItemQuickSwitch
+- LateCompany
 - LC_API
+- LC_Symphony
+- LethalCompany_InputUtils
+- LetMeLookDown
+- More_Emotes
+- More_Suits
+- MoreCompany
+- ShipLoot
+- Skinwalkers
+- VoiceHUD
+- WalkieUse
