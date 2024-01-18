@@ -1,3 +1,7 @@
+# 1.6.0
+- Added Runtime_Netcode_Patcher(0.2.5)
+- Updated MoreCompany(1.7.4), WalkieUse(1.5.0), LateCompany(1.0.10), Boombox_Controller(1.1.8), Skinwalkers(4.0.1), More_Emotes(1.3.3), Coroner(1.5.3), LC_Symphony(1.3.0), LC_API(3.4.4), LethalCompany_InputUtils(0.5.5)
+
 # 1.5.0
 - Added LethalCompany_InputUtils
 - Updated FlashlightToggle, WalkieUse, LateCompany, Boombox_Controller, Coroner, LC_Symphony, LC_API
