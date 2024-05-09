@@ -1,3 +1,8 @@
+# 1.7.0
+- For game version v50
+- Updated MoreCompany (1.9.1), LateCompany (1.0.13), More_Suits (1.4.3), Boombox_Controller (1.2.4), Skinwalkers (5.0.0), ShipLoot (1.1.0), Coroner (1.6.2), LethalCompany_InputUtils (0.7.4)
+- Removed LC_API, More_Emotes
+
 # 1.6.0
 - Added Runtime_Netcode_Patcher(0.2.5)
 - Updated MoreCompany(1.7.4), WalkieUse(1.5.0), LateCompany(1.0.10), Boombox_Controller(1.1.8), Skinwalkers(4.0.1), More_Emotes(1.3.3), Coroner(1.5.3), LC_Symphony(1.3.0), LC_API(3.4.4), LethalCompany_InputUtils(0.5.5)
