@@ -1,6 +1,6 @@
 {
     "name": "BittaLethalPack",
-    "version_number": "1.7.0",
+    "version_number": "1.7.1",
     "website_url": "https://github.com/Jatc252/BittaLethalPack",
     "description": "Lite pack with QOL mods and a few extra gameplay features",
     "dependencies": [
@@ -12,11 +12,9 @@
         "matsuura-HealthMetrics-1.0.2",
         "vasanex-ItemQuickSwitch-1.1.0",
         "anormaltwig-LateCompany-1.0.13",
-        "2018-LC_API-3.4.4",
         "alexanderjoe-LC_Symphony-1.3.0",
         "Rune580-LethalCompany_InputUtils-0.7.4",
         "FlipMods-LetMeLookDown-1.0.1",
-        "Sligili-More_Emotes-1.3.3",
         "x753-More_Suits-1.4.3",
         "notnotnotswipez-MoreCompany-1.9.1",
         "Ozone-Runtime_Netcode_Patcher-0.2.5",

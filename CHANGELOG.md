@@ -1,3 +1,6 @@
+# 1.7.1
+- Actually removed LC_API, More_Emotes
+
 # 1.7.0
 - For game version v50
 - Updated MoreCompany (1.9.1), LateCompany (1.0.13), More_Suits (1.4.3), Boombox_Controller (1.2.4), Skinwalkers (5.0.0), ShipLoot (1.1.0), Coroner (1.6.2), LethalCompany_InputUtils (0.7.4)
