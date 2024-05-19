@@ -1,3 +1,7 @@
+# 1.8.0
+- Added YippeeMod(1.2.4)
+- Removed Runtime_Netcode_Patcher(0.2.5)
+
 # 1.7.1
 - Actually removed LC_API, More_Emotes
 

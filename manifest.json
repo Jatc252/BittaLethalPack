@@ -1,6 +1,6 @@
 {
     "name": "BittaLethalPack",
-    "version_number": "1.7.1",
+    "version_number": "1.8.0",
     "website_url": "https://github.com/Jatc252/BittaLethalPack",
     "description": "Lite pack with QOL mods and a few extra gameplay features",
     "dependencies": [
@@ -17,11 +17,10 @@
         "FlipMods-LetMeLookDown-1.0.1",
         "x753-More_Suits-1.4.3",
         "notnotnotswipez-MoreCompany-1.9.1",
-        "Ozone-Runtime_Netcode_Patcher-0.2.5",
         "tinyhoot-ShipLoot-1.1.0",
         "RugbugRedfern-Skinwalkers-5.0.0",
         "5Bit-VoiceHUD-1.0.4",
-        "Renegades-WalkieUse-1.5.0"
+        "Renegades-WalkieUse-1.5.0",
+        "sunnobunno-YippeeMod-1.2.4"
     ]
-    
   }
