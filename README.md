@@ -1,24 +1,7 @@
-# BittaLethalPack 1.8.0
-Lite pack with QOL mods and a few extra gameplay features
+# BittaLethalPack 2.0.0
+Semi-big pack with quite a few QOL and content additions
 
 Visit my website for contact info [here](https://jatc251.com) or view the [GitHub repository](https://github.com/Jatc252/BittaLethalPack)
 
 ## Mods
-- BepInExPack
-- Boombox_Controller
-- Coroner
-- FlashlightToggle
-- HDLethalCompany
-- HealthMetrics
-- ItemQuickSwitch
-- LateCompany
-- LC_Symphony
-- LethalCompany_InputUtils
-- LetMeLookDown
-- More_Suits
-- MoreCompany
-- ShipLoot
-- Skinwalkers
-- VoiceHUD
-- WalkieUse
-- YippeeMod
+too many to list, check manifest.json or the thunderstore page

@@ -1,3 +1,6 @@
+# 2.0.0
+- Added a bunch of mods
+
 # 1.8.0
 - Added YippeeMod(1.2.4)
 - Removed Runtime_Netcode_Patcher(0.2.5)
