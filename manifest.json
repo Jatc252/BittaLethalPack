@@ -1,6 +1,6 @@
 {
     "name": "BittaLethalPack",
-    "version_number": "2.0.0",
+    "version_number": "2.1.0",
     "website_url": "https://github.com/Jatc252/BittaLethalPack",
     "description": "Semi-big pack with quite a few QOL and content additions",
     "dependencies": [
@@ -66,6 +66,12 @@
         "CTNOriginals-CrossHair-1.1.2",
         "veri-ShipWindows-2.0.6",
         "Zaggy1024-PathfindingLagFix-1.2.1",
-        "linkoid-DissonanceLagFix-1.0.0"
+        "linkoid-DissonanceLagFix-1.0.0",
+        "Verity-TooManySuits-1.0.9",
+        "TeamClark-SCP_Foundation_Suit-1.1.0",
+        "femboytv-LethalPosters-1.2.3",
+        "femboytv-LethalPaintings-1.2.3",
+        "femboytv-BoykisserPosters-1.2.3",
+        "qwq_cloud-Boykisser_uwu_Suit-1.1.2"
     ]
 }

@@ -1,3 +1,7 @@
+# 2.1.0
+- Added TooManySuits(1.0.9), SCP_Foundation_Suit(1.1.0), LethalPosters(1.2.3), LethalPaintings(1.2.3), BoykisserPosters(1.2.3)
+- Updated LethalLevelLoader(1.2.4)
+
 # 2.0.0
 - Added a bunch of mods
 
