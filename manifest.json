@@ -1,6 +1,6 @@
 {
     "name": "BittaLethalPack",
-    "version_number": "2.1.0",
+    "version_number": "2.2.0",
     "website_url": "https://github.com/Jatc252/BittaLethalPack",
     "description": "Semi-big pack with quite a few QOL and content additions",
     "dependencies": [
@@ -31,7 +31,6 @@
         "MaxWasUnavailable-LethalModDataLib-1.2.2",
         "IAmBatby-LethalLevelLoader-1.2.4",
         "Major_And_Skiz-MoreInteriors-2.5.0",
-        "HomelessGinger-MaskedEnemyOverhaul-3.1.2",
         "Ccode_lang-SirenHead-1.4.3",
         "DriftersStudios-LucilleJohnson-0.0.7",
         "Midge-PushCompany-1.2.0",
@@ -72,6 +71,11 @@
         "femboytv-LethalPosters-1.2.3",
         "femboytv-LethalPaintings-1.2.3",
         "femboytv-BoykisserPosters-1.2.3",
-        "qwq_cloud-Boykisser_uwu_Suit-1.1.2"
+        "qwq_cloud-Boykisser_uwu_Suit-1.1.2",
+        "happyfrosty-FrostySuits-1.1.14",
+        "Norman-GlowStickSuits-1.0.4",
+        "ManiaBania-1000_Quota_Stare-1.0.0",
+        "yeahimliam-Peter_Griffin_Suit-1.0.1",
+        "QuFix-Lidl_Suit-1.0.4"
     ]
 }

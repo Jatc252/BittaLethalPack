@@ -1,3 +1,7 @@
+# 2.2.0
+- Added FrostySuits-1.1.14, GlowStickSuits-1.0.4, 1000_Quota_Stare-1.0.0, Peter_Griffin_Suit-1.0.1, Lidl_Suit-1.0.4
+- Removed MaskedEnemyOverhaul-3.1.2
+
 # 2.1.0
 - Added TooManySuits(1.0.9), SCP_Foundation_Suit(1.1.0), LethalPosters(1.2.3), LethalPaintings(1.2.3), BoykisserPosters(1.2.3)
 - Updated LethalLevelLoader(1.2.4)
