@@ -1,3 +1,8 @@
+# 2.3.0
+- Added ShipWindows(1.3.7) by TestAccount666
+- Removed ShipWindows(2.0.6) by veri
+- Updated Scopophobia(1.1.3), LethalCompany_InputUtils(0.7.7), TooManySuits(1.1.0), MrovLib(0.1.0), TerminalFormatter(0.2.14), ViewExtension(1.2.2), TooManyEmotes(2.1.19)
+
 # 2.2.0
 - Added FrostySuits-1.1.14, GlowStickSuits-1.0.4, 1000_Quota_Stare-1.0.0, Peter_Griffin_Suit-1.0.1, Lidl_Suit-1.0.4
 - Removed MaskedEnemyOverhaul-3.1.2
