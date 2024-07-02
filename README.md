@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/328388680437727232)
 # BittaLethalPack 2.3.2
-Semi-big pack with quite a few QOL and content additions
+Lethal Company modpack with 70+ QOL and content additions
 
 Visit my website for contact info [here](https://jatc251.com) or view the [GitHub repository](https://github.com/Jatc252/BittaLethalPack)
 
