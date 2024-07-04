@@ -1,3 +1,6 @@
+# 2.3.3
+- Updated ShipWindows(1.4.0), ViewExtension(1.3.0)
+
 # 2.3.2
 - Updated MrovLib(0.1.3), TerminalFormatter(0.2.17)
 
