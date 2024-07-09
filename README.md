@@ -1,8 +1,8 @@
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/328388680437727232)
-# BittaLethalPack 2.3.3
-Lethal Company modpack with 70+ QOL and content additions
+[![Website](https://img.shields.io/badge/MY%20WEBSITE-b493f4?style=for-the-badge)](https://jatc251.com) [![GitHub](https://img.shields.io/badge/github-32d8ee?style=for-the-badge&logo=github)](https://github.com/Jatc252/BittaLethalPack)
+# BittaLethalPack 3.0.0 for Lethal Company (v55)
+Lethal Company modpack with 70+ QOL and content additions.
 
-Visit my website for contact info [here](https://jatc251.com) or view the [GitHub repository](https://github.com/Jatc252/BittaLethalPack)
+Visit [my website](https://jatc251.com) for contact info or view the [GitHub repository](https://github.com/Jatc252/BittaLethalPack).
 
 ## Mods
 There are quite a few, either check `manifest.json` or the [Thunderstore page](https://thunderstore.io/c/lethal-company/p/jatc251/BittaLethalPack/).

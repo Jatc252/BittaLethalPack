@@ -1,7 +1,11 @@
-# 2.3.3
+# 3.0.0 - 9<sup>th</sup> July 2024
+- Updated for game version 55
+- Updated MrovLib(0.1.5), MoreCompany(1.9.4), LateCompany(1.0.14), TerminalFormatter(0.2.18), Mimics(2.6.2), ShipWindows(1.5.2)
+
+# 2.3.3 - 4<sup>th</sup> July 2024
 - Updated ShipWindows(1.4.0), ViewExtension(1.3.0)
 
-# 2.3.2
+# 2.3.2 - 2<sup>nd</sup> July 2024
 - Updated MrovLib(0.1.3), TerminalFormatter(0.2.17)
 
 # 2.3.1
@@ -28,7 +32,7 @@
 - Actually removed LC_API, More_Emotes
 
 # 1.7.0
-- For game version v50
+- Updated for game version 50
 - Updated MoreCompany (1.9.1), LateCompany (1.0.13), More_Suits (1.4.3), Boombox_Controller (1.2.4), Skinwalkers (5.0.0), ShipLoot (1.1.0), Coroner (1.6.2), LethalCompany_InputUtils (0.7.4)
 - Removed LC_API, More_Emotes
 
