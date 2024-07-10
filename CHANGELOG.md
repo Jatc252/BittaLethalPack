@@ -1,3 +1,6 @@
+# 3.0.1 - 10<sup>th</sup> July 2024
+- Updated TerminalFormatter(0.2.19)
+
 # 3.0.0 - 9<sup>th</sup> July 2024
 - Updated for game version 55
 - Updated MrovLib(0.1.5), MoreCompany(1.9.4), LateCompany(1.0.14), TerminalFormatter(0.2.18), Mimics(2.6.2), ShipWindows(1.5.2)

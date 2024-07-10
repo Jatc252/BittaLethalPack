@@ -1,6 +1,6 @@
 {
     "name": "BittaLethalPack",
-    "version_number": "3.0.0",
+    "version_number": "3.0.1",
     "website_url": "https://github.com/Jatc252/BittaLethalPack",
     "description": "Pack with 70+ QOL and content additions",
     "dependencies": [
@@ -46,7 +46,7 @@
         "mrov-LethalRichPresence-0.5.9",
         "mrov-MrovLib-0.1.5",
         "mrov-OrbitRecharge-0.0.5",
-        "mrov-TerminalFormatter-0.2.18",
+        "mrov-TerminalFormatter-0.2.19",
         "no00ob-LCSoundTool-1.5.1",
         "Norman-GlowStickSuits-1.0.4",
         "notnotnotswipez-MoreCompany-1.9.4",
