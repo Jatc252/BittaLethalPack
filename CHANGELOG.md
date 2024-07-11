@@ -1,3 +1,6 @@
+# 3.0.2 - 11<sup>th</sup> July 2024
+- Updated LethalLib(0.16.0), SirenHead(2.0.0)
+
 # 3.0.1 - 10<sup>th</sup> July 2024
 - Updated TerminalFormatter(0.2.19)
 
