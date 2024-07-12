@@ -1,3 +1,6 @@
+# 3.0.3 - 12<sup>th</sup> July 2024
+- Updated LethalLib(0.16.1), SirenHead(2.0.1)
+
 # 3.0.2 - 11<sup>th</sup> July 2024
 - Updated LethalLib(0.16.0), SirenHead(2.0.0)
 

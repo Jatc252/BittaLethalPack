@@ -1,6 +1,6 @@
 {
     "name": "BittaLethalPack",
-    "version_number": "3.0.2",
+    "version_number": "3.0.3",
     "website_url": "https://github.com/Jatc252/BittaLethalPack",
     "description": "Pack with 70+ QOL and content additions",
     "dependencies": [
@@ -14,7 +14,7 @@
         "Backrooms-Backrooms-0.1.3",
         "BepInEx-BepInExPack-5.4.2100",
         "CapyCat-Solos_Bodycams-1.0.5",
-        "Ccode_lang-SirenHead-2.0.0",
+        "Ccode_lang-SirenHead-2.0.1",
         "Clementinise-CustomSounds-2.3.2",
         "CTNOriginals-CrossHair-1.1.2",
         "Drakorle-MoreItems-1.0.2",
@@ -22,7 +22,7 @@
         "EliteMasterEric-Coroner-1.6.2",
         "Evaisa-FixPluginTypesSerialization-1.1.1",
         "Evaisa-HookGenPatcher-0.0.5",
-        "Evaisa-LethalLib-0.16.0",
+        "Evaisa-LethalLib-0.16.1",
         "femboytv-BoykisserPosters-1.2.3",
         "femboytv-LethalPaintings-1.2.3",
         "femboytv-LethalPosters-1.2.3",
