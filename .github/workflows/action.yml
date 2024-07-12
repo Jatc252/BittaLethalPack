@@ -1,4 +1,4 @@
-name: Zip for Thunderstore
+name: Create a ZIP for Thunderstore upload
 
 on:
   push:
@@ -14,5 +14,10 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: bittalethalpack
-          path: ${{ github.workspace }}
+          name: BittaLethalPack
+          path: |
+            CHANGELOG.md
+            LICENSE
+            README.md
+            icon.png
+            manifest.json
