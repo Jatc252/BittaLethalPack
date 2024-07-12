@@ -1,20 +1,23 @@
-# 3.0.3 - 12<sup>th</sup> July 2024
+# 3.1.0 (2024-07-13)
+- Removed FixPluginTypesSerialization(1.1.1), LethalLevelLoader(1.2.4), MoreInteriors(2.5.0)
+
+# 3.0.3 (2024-07-12)
 - Updated LethalLib(0.16.1), SirenHead(2.0.1)
 
-# 3.0.2 - 11<sup>th</sup> July 2024
+# 3.0.2 (2024-07-11)
 - Updated LethalLib(0.16.0), SirenHead(2.0.0)
 
-# 3.0.1 - 10<sup>th</sup> July 2024
+# 3.0.1 (2024-07-10)
 - Updated TerminalFormatter(0.2.19)
 
-# 3.0.0 - 9<sup>th</sup> July 2024
+# 3.0.0 (2024-07-09)
 - Updated for game version 55
 - Updated MrovLib(0.1.5), MoreCompany(1.9.4), LateCompany(1.0.14), TerminalFormatter(0.2.18), Mimics(2.6.2), ShipWindows(1.5.2)
 
-# 2.3.3 - 4<sup>th</sup> July 2024
+# 2.3.3 (2024-07-04)
 - Updated ShipWindows(1.4.0), ViewExtension(1.3.0)
 
-# 2.3.2 - 2<sup>nd</sup> July 2024
+# 2.3.2 (2024-07-02)
 - Updated MrovLib(0.1.3), TerminalFormatter(0.2.17)
 
 # 2.3.1
