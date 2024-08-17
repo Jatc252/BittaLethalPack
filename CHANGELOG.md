@@ -1,3 +1,7 @@
+# 3.2.0 (2024-08-17)
+- Added OdinSerializer(2022.11.9) by Lordfirespeed
+- Updated PathfindingLagFix(1.2.2), Mimics(2.6.4), ShipWindows(1.8.0), TerminalFormatter(0.2.23), MrovLib(0.2.4), FrostySuits(2.0.0), TooManyEmotes(2.1.26), Coroner(2.0.0), LateCompany(1.0.16)
+
 # 3.1.0 (2024-07-13)
 - Removed FixPluginTypesSerialization(1.1.1), LethalLevelLoader(1.2.4), MoreInteriors(2.5.0)
 
