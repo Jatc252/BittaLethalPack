@@ -1,3 +1,6 @@
+# 3.3.2 (2024-09-07)
+- Compatible with game version 64
+
 # 3.3.1 (2024-09-07)
 - Updated TooManyEmotes(2.2.6), TooManySuits(1.1.1)
 
