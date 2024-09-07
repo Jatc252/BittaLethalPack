@@ -1,4 +1,7 @@
-# 3.3.0 (2024-9-4)
+# 3.3.1 (2024-09-07)
+- Updated TooManyEmotes(2.2.6), TooManySuits(1.1.1)
+
+# 3.3.0 (2024-09-04)
 - Updated for game version 62
 - Updated PathfindingLagFix(1.4.0), ShipWindows(1.10.2), The_Fiend(1.0.6), MoreCompany(1.10.1), BoomboxController(1.2.5), Scopophobia(1.1.5), Hold_Scan_Button(1.1.2), TooManyEmotes(2.2.5), LetMeLookDown(1.0.2), Coroner(2.1.0), LateCompany(1.0.18)
 - Removed LBtoKGs(1.0.0), EmployeeAssignments(1.1.0)
