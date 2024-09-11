@@ -1,3 +1,6 @@
+# 3.3.3 (2024-09-12)
+- Updated TooManySuits(1.1.2), Coroner(2.2.0)
+
 # 3.3.2 (2024-09-07)
 - Compatible with game version 64
 
