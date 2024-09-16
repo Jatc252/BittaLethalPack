@@ -1,3 +1,6 @@
+# 3.3.4 (2024-09-16)
+- Updated TooManyEmotes(2.2.7), The_Fiend(1.0.7)
+
 # 3.3.3 (2024-09-12)
 - Updated TooManySuits(1.1.2), Coroner(2.2.0)
 
