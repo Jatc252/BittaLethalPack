@@ -1,3 +1,6 @@
+# 3.3.6 (2024-10-30)
+- Updated SirenHead (2.0.3), TooManyEmotes(2.2.8), MrovLib(0.2.7), MoreCompany(1.11.0), TooManySuits(2.0.1), More_Suits(1.4.4)
+
 # 3.3.5 (2024-09-23)
 - Updated TooManySuits(2.0.0)
 
