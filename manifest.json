@@ -1,6 +1,6 @@
 {
     "name": "BittaLethalPack",
-    "version_number": "3.3.6",
+    "version_number": "3.3.7",
     "website_url": "https://github.com/Jatc252/BittaLethalPack",
     "description": "Lethal Company modpack with 60+ quality of life and content additions.",
     "dependencies": [
@@ -25,7 +25,7 @@
         "femboytv-LethalPaintings-1.2.3",
         "femboytv-LethalPosters-1.2.3",
         "FlipMods-LetMeLookDown-1.0.2",
-        "FlipMods-TooManyEmotes-2.2.8",
+        "FlipMods-TooManyEmotes-2.2.11",
         "FutureSavior-Hold_Scan_Button-1.1.2",
         "happyfrosty-FrostySuits-2.0.0",
         "Hardy-LCMaxSoundsFix-1.2.0",
