@@ -1,3 +1,7 @@
+# 3.4.0 (2024-11-03)
+- Added MaskedEnemyOverhaulFork(3.4.0), LobbyCompatibility(1.2.0)
+- Removed LucilleJohnson(0.0.7), Possessed_Masks(2.1.1), The_Fiend(1.0.7)
+
 # 3.3.7 (2024-11-03)
 - Update TooManyEmotes(2.2.11)
 
