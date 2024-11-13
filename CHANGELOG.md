@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# 3.4.1 (2024-11-13)
+- Updated MrovLib(0.2.8), More_Suits(1.4.5), LobbyCompatibility(1.3.0)
+
 # 3.4.0 (2024-11-03)
 - Added MaskedEnemyOverhaulFork(3.4.0), LobbyCompatibility(1.2.0)
 - Removed LucilleJohnson(0.0.7), Possessed_Masks(2.1.1), The_Fiend(1.0.7)
