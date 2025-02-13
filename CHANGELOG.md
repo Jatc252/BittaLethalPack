@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# 3.4.3 (2025-02-14)
+- Changed version compatibility to v69
+
 # 3.4.2 (2025-02-14)
 - Updated LobbyCompatibility(1.4.0), LethalLib(0.16.2), Boombox_Controller(1.2.7), MrovLib(0.2.21), OrbitRecharge(0.1.0), TerminalFormatter(0.2.28), ShipWindows(1.11.0), PathfindingLagFix(2.1.1)
 
