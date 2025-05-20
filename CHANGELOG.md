@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# 3.5.0 (2025-05-21)
+- Added PathfindingLib(0.1.1)
+- Updated TooManyEmotes(2.3.4), PathfindingLagFix(2.2.1), MrovLib(0.2.27), TerminalFormatter(0.2.29), LethalLib(1.0.3), SirenHead(2.0.4), More_Suits(1.5.2), OdinSerializer(2024.2.2700), LobbyCompatibility(1.5.0)
+
 # 3.4.3 (2025-02-14)
 - Changed version compatibility to v69
 
