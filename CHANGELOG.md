@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# 3.6.0 (2026-02-17)
+- Update for game version 73
+- Added FixPluginTypesSerialization(1.1.4), AutoHookGenPatcher(1.0.9), DetourContext_Dispose_Fix(1.0.7), MonkeyInjectionLibrary(1.0.2), MonoDetour_BepInEx_5(0.7.12), MonoDetour(0.7.12), DawnLib(0.7.15), TestAccountCore(1.16.5), Interactive_Terminal_API(1.3.2)
+- Updated BepInExPack(5.4.2304), LobbyCompatibility(1.5.1), SirenHead(2.0.6), Coroner(2.3.0), LethalLib(1.1.1), TooManyEmotes(2.3.13), MrovLib(0.4.2), OrbitRecharge(0.1.1), TerminalFormatter(0.2.34), MoreCompany(1.12.0), LethalCompany_InputUtils(0.7.12), TooManySuits(2.0.2), Mimics(2.7.2), StaticNetcodeLib(1.2.0), PathfindingLagFix(2.2.5), PathfindingLib(2.4.1)
+
 # 3.5.0 (2025-05-21)
 - Added PathfindingLib(0.1.1)
 - Updated TooManyEmotes(2.3.4), PathfindingLagFix(2.2.1), MrovLib(0.2.27), TerminalFormatter(0.2.29), LethalLib(1.0.3), SirenHead(2.0.4), More_Suits(1.5.2), OdinSerializer(2024.2.2700), LobbyCompatibility(1.5.0)
