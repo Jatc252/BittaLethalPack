@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# 3.7.0 (2026-09-20)
+- Update for game version 81
+- Added TerminalUtils(0.0.16)
+- Updated BepInExPack(5.4.2305), SirenHead(2.0.7), Coroner(2.4.1), LethalLib(1.2.0), TooManyEmotes(2.3.17), AutoHookGenPatcher(1.1.1), DetourContext_Dispose_Fix(1.0.9), MonoDetour_BepInEx_5(0.7.16), MonoDetour(0.7.16), MrovLib(0.4.15), TerminalFormatter(0.3.7), MoreCompany(1.14.0), LethalCompany_InputUtils(0.7.13), BetterPaycheck(0.9.2), DawnLib(0.9.25), ShipWindows(2.11.1), TestAccountCore(1.18.0), TooManySuits(2.0.4), Interactive_Terminal_API(1.3.3), Mimics(2.7.4), More_Suits(1.5.4), PathfindingLagFix(2.4.2)
+- Removed Backrooms(0.1.3)
+
 # 3.6.0 (2026-02-17)
 - Update for game version 73
 - Added FixPluginTypesSerialization(1.1.4), AutoHookGenPatcher(1.0.9), DetourContext_Dispose_Fix(1.0.7), MonkeyInjectionLibrary(1.0.2), MonoDetour_BepInEx_5(0.7.12), MonoDetour(0.7.12), DawnLib(0.7.15), TestAccountCore(1.16.5), Interactive_Terminal_API(1.3.2)
